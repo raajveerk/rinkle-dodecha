@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rinkle-dodecha/static/css/main.23008b1e.css",
-    "main.js": "/rinkle-dodecha/static/js/main.eb2650ca.js",
+    "main.css": "/rinkle-dodecha/static/css/main.6576692c.css",
+    "main.js": "/rinkle-dodecha/static/js/main.2e16080b.js",
     "static/js/787.55341407.chunk.js": "/rinkle-dodecha/static/js/787.55341407.chunk.js",
     "index.html": "/rinkle-dodecha/index.html",
-    "main.23008b1e.css.map": "/rinkle-dodecha/static/css/main.23008b1e.css.map",
-    "main.eb2650ca.js.map": "/rinkle-dodecha/static/js/main.eb2650ca.js.map",
+    "main.6576692c.css.map": "/rinkle-dodecha/static/css/main.6576692c.css.map",
+    "main.2e16080b.js.map": "/rinkle-dodecha/static/js/main.2e16080b.js.map",
     "787.55341407.chunk.js.map": "/rinkle-dodecha/static/js/787.55341407.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.23008b1e.css",
-    "static/js/main.eb2650ca.js"
+    "static/css/main.6576692c.css",
+    "static/js/main.2e16080b.js"
   ]
 }
