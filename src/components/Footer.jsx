@@ -14,8 +14,8 @@ export const Footer = () => {
     // }
 
   return (
-    <div className='justify-between w-full mt-[200px] bg-black bg-opacity-30 backdrop-blur-md py-4 text-white'>
-        <h1 className='text-center font-bold font-serif sm:text-md text-sm'>"OM SHANTI"</h1>
+    <div className='justify-between w-full mt-[0px] bg-black bg-opacity-30 backdrop-blur-md py-4 text-white'>
+        <h1 className='text-center font-bold font-serif sm:text-md text-sm'>" OM SHANTI "</h1>
     </div>
   )
 }
