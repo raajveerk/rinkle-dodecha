@@ -1,15 +1,21 @@
 {
   "files": {
-    "main.css": "/rinkle-dodecha/static/css/main.6576692c.css",
-    "main.js": "/rinkle-dodecha/static/js/main.2e16080b.js",
+    "main.css": "/rinkle-dodecha/static/css/main.5bc7c691.css",
+    "main.js": "/rinkle-dodecha/static/js/main.d51f784f.js",
     "static/js/787.55341407.chunk.js": "/rinkle-dodecha/static/js/787.55341407.chunk.js",
+    "static/media/dos.png": "/rinkle-dodecha/static/media/dos.db35c3883536d52763a9.png",
+    "static/media/ses.png": "/rinkle-dodecha/static/media/ses.6574a39159c2ab3dc54d.png",
+    "static/media/quatro.png": "/rinkle-dodecha/static/media/quatro.689ca2a82cabf0cd5991.png",
+    "static/media/sinko.png": "/rinkle-dodecha/static/media/sinko.41de588395607256b3b9.png",
+    "static/media/uno.png": "/rinkle-dodecha/static/media/uno.b683e2313e0ddd4d01d5.png",
+    "static/media/tres.png": "/rinkle-dodecha/static/media/tres.8f162728afeeab0a0076.png",
     "index.html": "/rinkle-dodecha/index.html",
-    "main.6576692c.css.map": "/rinkle-dodecha/static/css/main.6576692c.css.map",
-    "main.2e16080b.js.map": "/rinkle-dodecha/static/js/main.2e16080b.js.map",
+    "main.5bc7c691.css.map": "/rinkle-dodecha/static/css/main.5bc7c691.css.map",
+    "main.d51f784f.js.map": "/rinkle-dodecha/static/js/main.d51f784f.js.map",
     "787.55341407.chunk.js.map": "/rinkle-dodecha/static/js/787.55341407.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6576692c.css",
-    "static/js/main.2e16080b.js"
+    "static/css/main.5bc7c691.css",
+    "static/js/main.d51f784f.js"
   ]
 }
