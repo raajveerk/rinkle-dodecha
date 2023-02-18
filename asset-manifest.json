@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rinkle-dodecha/static/css/main.764cd90f.css",
+    "main.js": "/rinkle-dodecha/static/js/main.ffbacafa.js",
+    "static/js/787.55341407.chunk.js": "/rinkle-dodecha/static/js/787.55341407.chunk.js",
+    "index.html": "/rinkle-dodecha/index.html",
+    "main.764cd90f.css.map": "/rinkle-dodecha/static/css/main.764cd90f.css.map",
+    "main.ffbacafa.js.map": "/rinkle-dodecha/static/js/main.ffbacafa.js.map",
+    "787.55341407.chunk.js.map": "/rinkle-dodecha/static/js/787.55341407.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.764cd90f.css",
+    "static/js/main.ffbacafa.js"
+  ]
+}
