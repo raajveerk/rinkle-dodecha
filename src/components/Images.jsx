@@ -9,21 +9,15 @@ import ses from "../images/ses.png";
 export const Images = () => {
   return (
     <>
-    <div className='mb-[75px] max-w-[1000px] md:flex hidden items-center sm:mx-auto space-x-[50px]'>
+    <div className='mb-[75px] max-w-[650px] md:flex hidden md:mx-auto space-x-[50px]'>
         <div>
-            <img src={uno} alt="Uno" className='w-[300px] h-[300px] bg-fixed rounded-lg'/>
-        </div>
-        <div>
-            <img src={dos} alt="Dos" className='w-[300px] h-[300px] bg-fixed rounded-lg'/>
+            <img src={uno} alt="Uno" className='w-[300px] h-[300px] rounded-lg'/>
         </div>
         <div>
             <img src={tres} alt="Tres" className='w-[300px] h-[300px] bg-fixed rounded-lg' />
         </div>
     </div>
-    <div className='mb-[150px] max-w-[1000px] md:flex hidden items-center sm:mx-auto space-x-[50px]'>
-        <div>
-            <img src={quatro} alt="Quatro" className='w-[300px] h-[300px] bg-fixed rounded-lg' />
-        </div>
+    <div className='mb-[150px] max-w-[650px] md:flex hidden items-center sm:mx-auto space-x-[50px]'>
         <div>
             <img src={sinko} alt="Sinko" className='w-[300px] h-[300px] bg-fixed rounded-lg' />
         </div>
@@ -33,8 +27,11 @@ export const Images = () => {
     </div>
     
     <div className='md:hidden flex flex-col items-center space-y-[25px] mb-[0px]'>
-        <div>
+        {/* <div>
             <img src={quatro} alt="Quatro" className='w-[300px] h-[300px] bg-fixed rounded-lg' />
+        </div><br /> */}
+        <div>
+            <img src={tres} alt="Tres" className='w-[300px] h-[300px] bg-fixed rounded-lg' />
         </div><br />
         <div>
             <img src={sinko} alt="Sinko" className='w-[300px] h-[300px] bg-fixed rounded-lg' />
@@ -45,12 +42,9 @@ export const Images = () => {
         <div>
             <img src={uno} alt="Uno" className='w-[300px] h-[300px] bg-fixed rounded-lg'/>
         </div><br />
-        <div>
+        {/* <div>
             <img src={dos} alt="Dos" className='w-[300px] h-[300px] bg-fixed rounded-lg'/>
-        </div><br />
-        <div>
-            <img src={tres} alt="Tres" className='w-[300px] h-[300px] bg-fixed rounded-lg' />
-        </div><br />
+        </div><br /> */}
     </div>
     </>
   )
