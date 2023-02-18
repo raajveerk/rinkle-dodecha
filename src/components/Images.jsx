@@ -9,7 +9,7 @@ import ses from "../images/ses.png";
 export const Images = () => {
   return (
     <>
-    <div className='mb-[75px] max-w-[1000px] sm:flex hidden items-center sm:mx-auto space-x-[50px]'>
+    <div className='mb-[75px] max-w-[1000px] md:flex hidden items-center sm:mx-auto space-x-[50px]'>
         <div>
             <img src={uno} alt="Uno" className='w-[300px] h-[300px] bg-fixed rounded-lg'/>
         </div>
@@ -20,7 +20,7 @@ export const Images = () => {
             <img src={tres} alt="Tres" className='w-[300px] h-[300px] bg-fixed rounded-lg' />
         </div>
     </div>
-    <div className='mb-[150px] max-w-[1000px] sm:flex hidden items-center sm:mx-auto space-x-[50px]'>
+    <div className='mb-[150px] max-w-[1000px] md:flex hidden items-center sm:mx-auto space-x-[50px]'>
         <div>
             <img src={quatro} alt="Quatro" className='w-[300px] h-[300px] bg-fixed rounded-lg' />
         </div>
@@ -32,7 +32,7 @@ export const Images = () => {
         </div>
     </div>
     
-    <div className='sm:hidden flex flex-col items-center space-y-[25px] mb-[0px]'>
+    <div className='md:hidden flex flex-col items-center space-y-[25px] mb-[0px]'>
         <div>
             <img src={quatro} alt="Quatro" className='w-[300px] h-[300px] bg-fixed rounded-lg' />
         </div><br />
