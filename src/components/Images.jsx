@@ -42,15 +42,15 @@ export const Images = () => {
         <div>
             <img src={uno} alt="Uno" className='w-[500px] h-[500px] bg-fixed rounded-2xl'/>
         </div><br />
-        <div>
+        {/* <div>
             <img src={sinko} alt="Sinko" className='w-[500px] h-[500px] bg-fixed rounded-2xl' />
-        </div><br />
+        </div><br /> */}
         <div>
             <img src={ses} alt="Ses" className='w-[500px] h-[500px] bg-fixed rounded-2xl' />
         </div><br />
-        {/* <div>
+        <div>
             <img src={dos} alt="Dos" className='w-[500px] h-[500px] bg-fixed rounded-2xl'/>
-        </div><br /> */}
+        </div><br />
     </div>
     <div className='sm:hidden flex flex-col items-center space-y-[25px] mb-[0px]'>
         <div>
@@ -62,15 +62,15 @@ export const Images = () => {
         <div>
             <img src={uno} alt="Uno" className='w-[300px] h-[300px] bg-fixed rounded-2xl'/>
         </div><br />
-        <div>
+        {/* <div>
             <img src={sinko} alt="Sinko" className='w-[300px] h-[300px] bg-fixed rounded-2xl' />
-        </div><br />
+        </div><br /> */}
         <div>
             <img src={ses} alt="Ses" className='w-[300px] h-[300px] bg-fixed rounded-2xl' />
         </div><br />
-        {/* <div>
+        <div>
             <img src={dos} alt="Dos" className='w-[300px] h-[300px] bg-fixed rounded-2xl'/>
-        </div><br /> */}
+        </div><br />
     </div>
     </>
   )
