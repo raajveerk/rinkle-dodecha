@@ -11,7 +11,7 @@ export const Hero = () => {
         <div className='sm:py-3 sm:px-4 p-2 rounded-lg bg-white backdrop-blur-md bg-opacity-50 mt-[30px] leading-3'>
             <p className='text-left font-bold sm:text-xl text-lg font-sans'>DoB:<span className='sm:text-lg sm:ml-3 ml-2 text-md font-medium'>2nd May, 1998</span></p><br />
             <p className='text-left font-bold sm:text-xl text-lg font-sans'>Place of Birth:<span className='sm:text-lg sm:ml-3 ml-2 text-md font-medium'>Jamnagar, Gujarat</span></p><br />
-            <p className='text-left font-bold sm:text-xl text-lg font-sans'>Height:<span className='sm:text-lg sm:ml-3 text-md ml-2 font-medium'>5'1"</span></p><br />
+            <p className='text-left font-bold sm:text-xl text-lg font-sans'>Height:<span className='sm:text-lg sm:ml-3 text-md ml-2 font-medium'>5'2"</span></p><br />
             <p className='text-left font-bold sm:text-xl text-lg font-sans'>Complexion:<span className='sm:text-lg sm:ml-3 text-md ml-2 font-medium'>Fair</span></p><br />
             <p className='text-left font-bold sm:text-xl text-lg font-sans'>Education:<span className='sm:text-lg sm:ml-3 text-md ml-2 font-medium'><span className='font-bold'>B.Comm</span>(2018, SLIMS Ahmedabad), <span className='font-bold'>Diploma in Fashion Designing</span>(2018, INIFD), <span className='font-bold'>MFM</span>(2021, NIFT Gandhinagar), <span className='font-bold'>Post Graduation Diploma in EXIM</span>(2019, Symbiosis Distance) </span></p><br />
             <p className='text-left font-bold sm:text-xl text-lg font-sans'>Hobbies:<span className='sm:text-lg sm:ml-3 text-md ml-2 font-medium'>Travelling, Cinema, Cooking</span></p><br />
