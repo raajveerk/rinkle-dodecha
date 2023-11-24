@@ -7,6 +7,10 @@ body {
   background: linear-gradient(0deg, rgba(110,110,110,1) 0%, rgba(40, 202, 189,1) 61%, rgb(40, 202, 189) 100%);
 }
 
+body::-webkit-scrollbar {
+  display: none;
+}
+
 .rmd {
   font-family: 'Cinzel', serif;
 }

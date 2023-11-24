@@ -22,7 +22,7 @@ export const Images = () => {
     </div>
     <div className='mb-[150px] max-w-[1000px] lg:flex hidden lg:mx-auto space-x-[50px]'>
         <div>
-            <img src={dos_new} alt="Dos" className='w-[300px] h-[300px] rounded-2xl'/>
+            <img src={dos_new} alt="Dos" className='w-[300px] h-[300px] rounded-2xl bg-contain bg-fixed'/>
         </div>
         <div>
             <img src={quatro} alt="Quatro" className='w-[300px] h-[300px] bg-fixed rounded-2xl' />
@@ -49,7 +49,7 @@ export const Images = () => {
             <img src={ses} alt="Ses" className='w-[500px] h-[500px] bg-fixed rounded-2xl' />
         </div><br />
         <div>
-            <img src={dos_new} alt="Dos" className='w-[500px] h-[500px] bg-fixed rounded-2xl'/>
+            <img src={dos_new} alt="Dos" className='w-[500px] h-[500px] bg-contain bg-fixed rounded-2xl'/>
         </div><br />
     </div>
     <div className='sm:hidden flex flex-col items-center space-y-[25px] mb-[0px]'>
@@ -69,7 +69,7 @@ export const Images = () => {
             <img src={ses} alt="Ses" className='w-[300px] h-[300px] bg-fixed rounded-2xl' />
         </div><br />
         <div>
-            <img src={dos_new} alt="Dos" className='w-[300px] h-[300px] bg-fixed rounded-2xl'/>
+            <img src={dos_new} alt="Dos" className='w-[300px] h-[300px] bg-contain bg-fixed rounded-2xl'/>
         </div><br />
     </div>
     </>
