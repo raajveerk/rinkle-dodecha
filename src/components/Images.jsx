@@ -1,10 +1,10 @@
 import React from 'react'
 import uno from "../images/uno.png";
 import dos_new from "../images/dos_new.png";
-import tres from "../images/tres.png";
-import quatro from "../images/quatro.png";
-import sinko from "../images/sinko.png";
-import ses from "../images/ses.png";
+import tres from "../images/Final/tres_new_sept2024.png";
+import quatro from "../images/Final/quatro_new_sept2024.png";
+import sinko from "../images/Final/sinko_new_sept2024.png";
+import ses from "../images/Final/ses_new.png";
 
 export const Images = () => {
   return (
@@ -27,9 +27,9 @@ export const Images = () => {
         <div>
             <img src={quatro} alt="Quatro" className='w-[300px] h-[300px] bg-fixed rounded-2xl' />
         </div>
-        {/* <div>
+        <div>
             <img src={sinko} alt="Sinko" className='w-[300px] h-[300px] bg-fixed rounded-2xl' />
-        </div> */}
+        </div>
     </div>
     
     <div className='lg:hidden sm:flex md:flex hidden flex-col items-center space-y-[25px] mb-[0px]'>
@@ -42,9 +42,9 @@ export const Images = () => {
         <div>
             <img src={uno} alt="Uno" className='w-[500px] h-[500px] bg-fixed rounded-2xl'/>
         </div><br />
-        {/* <div>
+        <div>
             <img src={sinko} alt="Sinko" className='w-[500px] h-[500px] bg-fixed rounded-2xl' />
-        </div><br /> */}
+        </div><br />
         <div>
             <img src={ses} alt="Ses" className='w-[500px] h-[500px] bg-fixed rounded-2xl' />
         </div><br />
@@ -62,9 +62,9 @@ export const Images = () => {
         <div>
             <img src={uno} alt="Uno" className='w-[300px] h-[300px] bg-fixed rounded-2xl'/>
         </div><br />
-        {/* <div>
+        <div>
             <img src={sinko} alt="Sinko" className='w-[300px] h-[300px] bg-fixed rounded-2xl' />
-        </div><br /> */}
+        </div><br />
         <div>
             <img src={ses} alt="Ses" className='w-[300px] h-[300px] bg-fixed rounded-2xl' />
         </div><br />
